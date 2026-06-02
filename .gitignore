@@ -8,6 +8,6 @@ env/
 
 *.pkl
 
-*.csv
+#*.csv
 
 .DS_Store
